@@ -1,0 +1,349 @@
+
+
+@font-face {
+    font-family: "Source Sans Pro";
+    src: url("https://fonts.gstatic.com/s/sourcesanspro/v9/toadOcfmlt9b38dHJxOBGOHJdKliW2M9IhUT0esa8kM.woff") format('woff');
+}
+
+/* NAME AT TOP (TITLE) */
+/* NAME AT TOP (TITLE) */
+/* NAME AT TOP (TITLE) */
+.title {
+
+    display: block;
+    margin: auto;
+    text-align: center;
+    font-family: Palatino;
+/*    font-family: Oswald, sans-serif;*/
+    /*font-family: Optima; */
+
+    font-size: 200%;
+    letter-spacing: 2px;
+
+    padding-top: 55px;
+    padding-bottom: 55px;
+    
+}
+
+
+/* NAVAGATION BAR AT TOP */
+/* NAVAGATION BAR AT TOP */
+/* NAVAGATION BAR AT TOP */
+.navBar {
+    
+    overflow: hidden;
+    background-color: #066006;
+    font-family: Palatino;
+    letter-spacing: 1px;
+    
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+.navBar a {
+    float:center;
+    font-size: 12px;
+    color: white;
+    text-align: center;
+    padding: 14px 5px;
+    text-decoration: none;
+    
+
+}
+
+.navBar b {
+    float:center;
+    font-size: 12px;
+    color: #01aa01;
+    text-align: center;
+    padding: 14px 5px;
+    text-decoration: none;
+    
+}
+
+.navBar a:hover {
+    color: #a7aaa7;
+/*    opacity: .7;*/
+}
+
+
+/* HOME PAGE IMAGE AND QUOTE */
+/* HOME PAGE IMAGE AND QUOTE */
+/* HOME PAGE IMAGE AND QUOTE */
+.home {
+/*    font-family:"Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;*/
+    font-family: "Source Sans Pro", Arial, sans-serif;
+    font-weight: 300;
+    font-size: 1.6rem;
+    line-height: 1.5;
+}
+
+.home img {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    right: 0;
+    left: 0;
+/*    padding-bottom: 30px;*/
+}
+
+.home a{
+    display: block;
+    background-color: white;
+    padding: 2em;
+    text-align: center;
+    opacity: .85;
+/*    width: 450px;*/
+
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 18px;
+    
+}
+
+.home p {
+    font-style: italic;
+    font-size: 16px;
+/*    word-spacing: 1px;*/
+
+}
+
+.home x{
+    font-family: Palatino;
+    font-size: 22px;
+    font-weight: 500;
+/*    letter-spacing: 1px;*/
+
+}
+
+
+/* PARAGRAPGHS ON EACH PAGE */
+/* PARAGRAPGHS ON EACH PAGE */
+/* PARAGRAPGHS ON EACH PAGE */
+.para {
+    font-family: "Source Sans Pro", Arial, sans-serif;
+    font-weight: 300;
+    font-size: 1.6rem;
+    line-height: 1.5;
+    
+    display: block;
+    margin: auto;
+    
+    /*letter-spacing: 1px;*/
+    
+    line-height: 23px;
+    
+}
+
+.para img{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    right: 0;
+    left: 0;
+    padding-bottom: 30px;
+}
+
+.para t{
+    font-family: Palatino;
+    font-size: 100%;
+/*    display: block;*/
+    text-align: left;
+    
+    letter-spacing: 1px;
+    padding-left: 50px;
+    
+/*    border-style:solid;*/
+
+}
+
+.para t2{
+    font-family: Palatino;
+    font-size: 100%;
+    text-align: left;
+    
+    letter-spacing: 1px;
+    padding-top: 40px;
+    padding-bottom: 25px;
+    
+    display: block;
+/*    margin: auto;*/
+
+/*    border-style:solid;*/
+
+}
+
+
+.para p{
+    text-align: left;
+/*    font-family: times;*/
+
+    font-size: 16px;
+    
+    padding-left: 50px;
+/*    padding-right: 350px;*/
+    width: 70%;
+    padding-bottom: 10px;
+    
+
+
+}
+
+.para p2{
+    display: block;
+    text-align: left;
+    
+    font-size: 16px;
+    
+/*    margin: auto;*/
+    padding-left: 50px; /* 475 */
+    width: 80%;
+    padding-bottom: 25px;
+    
+}
+
+
+/* IMAGE ON RESUME PAGE */
+/* IMAGE ON RESUME PAGE */
+/* IMAGE ON RESUME PAGE */
+.res {
+    
+}
+
+.res img{
+    display: block;
+    margin: auto;
+    width: 60%;
+
+}
+
+.res a {
+    display: block;
+    text-align: center;
+    padding: 10px;
+}
+
+
+/* ABOUT PICTURE */
+/* ABOUT PICTURE */
+/* ABOUT PICTURE */
+.about {
+    width: 500px;
+    height: 550px;
+    float: left;
+/*    border-style: solid;*/
+
+}
+
+.about img{
+    width: 400px;
+    height: 530px;
+
+    right: 0;
+    left: 0;
+
+    padding-top: 10px;
+    padding-left: 35px;
+/*    padding-bottom: 30px;*/
+/*    padding-right: 50px;*/
+}
+
+
+/* FOOTER + SOCIAL MEDIA ICONS */
+/* FOOTER + SOCIAL MEDIA ICONS */
+/* FOOTER + SOCIAL MEDIA ICONS */
+.foot {
+    display: block;
+/*    background-color: #4c4b4a;*/
+/*    padding: 10px;*/
+
+    padding-top: 25px;
+/*    padding-bottom: 3px;*/
+
+    text-align: right;
+    padding-right: 50px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    
+}
+
+.foot a{
+    padding: 8px;
+    
+    font-size: 26px;
+    width: 15px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+
+/*    background: #01aa01;*/
+    background: white;
+    color: gray;
+
+    display: inline;
+    line-height: 10%;
+/*    position: absolute;*/
+
+}
+
+.foot p {
+    font-family: "Source Sans Pro", Arial, sans-serif;
+    font-weight: 300;
+    font-size: 80%;
+    color: gray;
+    
+    text-align: left;
+
+    line-height: 10%;
+}
+
+.foot a:hover {
+/*    opacity: 0.7;*/
+    color: #066006;
+}
+
+.footer {
+    position: absolute;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
