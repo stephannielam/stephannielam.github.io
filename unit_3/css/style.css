@@ -8,7 +8,6 @@
 body {
     
     background-color:#f2f2f2;
-    
 }
 
 
@@ -49,6 +48,19 @@ body {
 /*    background-color: #066006;*/
 /*    color: #066006;*/
     color: black;
+}
+
+.copyright {
+    font-family: "Source Sans Pro", Arial, sans-serif;
+    font-weight: 300;
+    font-size: 80%;
+    color: gray;
+    text-align: left;
+    padding: 8px;
+
+    overflow: auto;
+    float: left;
+    
 }
 
 
@@ -305,11 +317,8 @@ body {
 /* FOOTER + SOCIAL MEDIA ICONS */
 .foot {
     display: block;
-/*    background-color: #4c4b4a;*/
-/*    padding: 10px;*/
 
     padding-top: 25px;
-/*    padding-bottom: 3px;*/
 
     text-align: right;
     padding-right: 50px;
@@ -317,6 +326,19 @@ body {
     padding-bottom: 10px;
     
 }
+
+/*.foot p {*/
+/*    font-family: "Source Sans Pro", Arial, sans-serif;*/
+/*    font-weight: 300;*/
+/*    font-size: 80%;*/
+/*    color: gray;*/
+/*    */
+/*    text-align: left;*/
+/*    */
+/*    overflow: auto;*/
+/*    float: left;*/
+/*    */
+/*}*/
 
 .foot a{
     padding: 8px;
@@ -338,16 +360,7 @@ body {
 
 }
 
-.foot p {
-    font-family: "Source Sans Pro", Arial, sans-serif;
-    font-weight: 300;
-    font-size: 80%;
-    color: gray;
-    
-    text-align: left;
 
-    line-height: 10%;
-}
 
 .foot a:hover {
 /*    opacity: 0.7;*/
