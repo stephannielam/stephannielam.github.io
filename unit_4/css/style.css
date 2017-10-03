@@ -6,7 +6,6 @@
 }
 
 
-
 body {
     
     background-color:#f2f2f2;
@@ -91,50 +90,6 @@ body {
     padding-bottom: 55px;
     
 }
-
-
-/* NAVAGATION BAR AT TOP */
-/* NAVAGATION BAR AT TOP */
-/* NAVAGATION BAR AT TOP */
-/*.navBar {*/
-/*    */
-/*    overflow: hidden;*/
-/*    background-color: #066006;*/
-/*    font-family: Palatino;*/
-/*    letter-spacing: 1px;*/
-/*    */
-/*    text-align: center;*/
-/*    padding-top: 20px;*/
-/*    padding-bottom: 20px;*/
-/**/
-/*}*/
-/**/
-/*.navBar a {*/
-/*    float:center;*/
-/*    font-size: 12px;*/
-/*    color: white;*/
-/*    text-align: center;*/
-/*    padding: 14px 5px;*/
-/*    text-decoration: none;*/
-/*    */
-/**/
-/*}*/
-/**/
-/*.navBar b {*/
-/*    float:center;*/
-/*    font-size: 12px;*/
-/*    color: #01aa01;*/
-/*    text-align: center;*/
-/*    padding: 14px 5px;*/
-/*    text-decoration: none;*/
-/*    */
-/*}*/
-/**/
-/*.navBar a:hover {*/
-/*    color: #a7aaa7;*/
-/*/*    opacity: .7;*/*/
-/*}*/
-
 
 
 /* HOME PAGE IMAGE AND QUOTE */
@@ -346,18 +301,6 @@ body {
     
 }
 
-/*.foot p {*/
-/*    font-family: "Source Sans Pro", Arial, sans-serif;*/
-/*    font-weight: 300;*/
-/*    font-size: 80%;*/
-/*    color: gray;*/
-/*    */
-/*    text-align: left;*/
-/*    */
-/*    overflow: auto;*/
-/*    float: left;*/
-/*    */
-/*}*/
 
 .foot a{
     padding: 8px;
@@ -380,16 +323,11 @@ body {
 }
 
 
-
 .foot a:hover {
-/*    opacity: 0.7;*/
     color: #066006;
 }
 
-.footer {
-    position: absolute;
-    
-}
+
 
 
 
