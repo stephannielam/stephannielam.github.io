@@ -383,12 +383,12 @@ footer {
     
 }
 
-/*PORTRAIT PHONE*/
+/*BREAKPOINT 3*/
 @media only screen and (max-width: 520px) {
  
     .home a {
 /*        background-color: blue;*/
-     
+
         top: 77%;
     }
  
@@ -413,12 +413,18 @@ footer {
 }
 
 
+/*PORTRAIT PHONE*/
+@media only screen and (max-width: 480px) {
 
+    .home a {
+        top: 40%;
+    }
 
+    .home x {
+        font-size: 28px;
+    }
 
-
-
-
+}
 
 
 
