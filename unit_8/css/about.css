@@ -1,0 +1,70 @@
+
+@font-face {
+    font-family: "Source Sans Pro";
+    src: url("https://fonts.gstatic.com/s/sourcesanspro/v9/toadOcfmlt9b38dHJxOBGOHJdKliW2M9IhUT0esa8kM.woff") format('woff');
+}
+
+
+#about_section {
+    background-color: #FFB7CF;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+
+#about_pic{
+    display: block;
+    clear: both;
+    float: left;
+    /*    background: #fff;*/
+    width: 40%;
+    /*    margin-right: 2em;*/
+    
+    background-color: violet;
+    border: 1px black solid;
+    padding: 20px;
+    float: left;
+    width: 30%;
+    
+}
+
+#about_pic img {
+    
+    width: 100%;
+    
+}
+
+#bio {
+    display: inline-block;
+    /*    margin-left: 2em;*/
+    text-align: left;
+    width: 45%;
+    max-width: 630px;
+    
+    /*    font-family: Palatino;*/
+    font-family: "Slabo 27px", "Times New Roman", serif;
+    
+    background-color: pink;
+    border: 1px black solid;
+    padding: 20px;
+    float: right;
+    width: 62%;
+}
+
+#bio h3 {
+    font-size: 24px;
+    border-bottom: 1px solid black;
+    
+    line-height: 2.5em;
+    letter-spacing: 2px;
+    font-weight: 500;
+    
+}
+
+#bio p {
+    line-height: 1.7em;
+    word-spacing: .1em;
+    font-size: 16px;
+    
+}
+

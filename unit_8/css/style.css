@@ -1,0 +1,438 @@
+
+
+@font-face {
+    font-family: "Source Sans Pro";
+    src: url("https://fonts.gstatic.com/s/sourcesanspro/v9/toadOcfmlt9b38dHJxOBGOHJdKliW2M9IhUT0esa8kM.woff") format('woff');
+}
+
+
+body {
+    
+    background-color:#f2f2f2;
+}
+
+
+.wrapper{
+
+    
+}
+
+header {
+    
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+    
+    float: left;
+    
+    height: 2em;
+    width: 33%;
+
+}
+
+.name_logo {
+
+    margin-left: 1em;
+/*    padding: 2%;*/
+    width: 15em;
+
+}
+
+
+.nav {
+    
+    background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+
+    height: 2em;
+
+    padding-right: 3em;
+    font-family: Palatino;
+    
+/*    float: right;*/
+/*    width: 55.53%;*/
+/*    width: 40.58%;*/
+/*    padding-left: 12%;*/
+
+
+}
+
+.nav a {
+    
+/*    background-color: #E8C66A;*/
+/*    border: 1px black solid;*/
+/*    padding: 20px;*/
+
+    float: right;
+    display: block;
+    color: gray;
+    text-align: center;
+    text-decoration: none;
+    
+    font-size: 12px;
+    
+    margin-top: .5em;
+    padding: .7em;
+    letter-spacing: 1px;
+
+}
+
+.nav a:hover {
+
+    color: #066006;
+/*    color: black;*/
+}
+
+
+/* HOME PAGE IMAGE AND QUOTE */
+/* HOME PAGE IMAGE AND QUOTE */
+/* HOME PAGE IMAGE AND QUOTE */
+.home {
+    
+    background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+    
+    
+/*    font-family:"Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;*/
+    font-family: "Source Sans Pro", Arial, sans-serif;
+    font-weight: 200;
+    font-size: 1.6rem;
+    
+    clear: left;
+    
+}
+
+.home img {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+/*    right: 0;*/
+/*    left: 0;*/
+
+}
+
+.home a {
+    display: block;
+    background-color: white;
+    padding: 4%;
+    text-align: center;
+    opacity: .7;
+    
+    width: 52%;
+/*    height: 30%;*/
+    top: 44%;
+    left: 22%;
+
+    position: absolute;
+    overflow: auto;
+    
+}
+
+.home p {
+    
+    font-style: italic;
+    font-size: 18px;
+    line-height: 1.5em;
+/*    word-spacing: 1px;*/
+
+    margin: 1.3em 2em;
+
+}
+
+.home x{
+    font-family: "Slabo 27px", "Times New Roman", serif;
+    font-size: 32px;
+    font-weight: bold;
+    
+    letter-spacing: 3px;
+
+}
+
+/*#about_section {*/
+/*    background-color: #FFB7CF;*/
+/*    border: 1px black solid;*/
+/*    padding: 20px;*/
+/*}*/
+/**/
+/**/
+/*#about_pic{*/
+/*    display: block;*/
+/*    clear: both;*/
+/*    float: left;*/
+/*/*    background: #fff;*/*/
+/*    width: 40%;*/
+/*/*    margin-right: 2em;*/*/
+/**/
+/*    background-color: violet;*/
+/*    border: 1px black solid;*/
+/*    padding: 20px;*/
+/*    float: left;*/
+/*    width: 30%;*/
+/*    */
+/*}*/
+/**/
+/*#about_pic img {*/
+/*    */
+/*    width: 100%;*/
+/*  */
+/*}*/
+/**/
+/*#bio {*/
+/*    display: inline-block;*/
+/*/*    margin-left: 2em;*/*/
+/*    text-align: left;*/
+/*    width: 45%;*/
+/*    */
+/*/*    font-family: Palatino;*/*/
+/*    font-family: "Slabo 27px", "Times New Roman", serif;*/
+/*    */
+/*    background-color: pink;*/
+/*    border: 1px black solid;*/
+/*    padding: 20px;*/
+/*    float: right;*/
+/*    width: 62%;*/
+/*}*/
+/**/
+/*#bio h3 {*/
+/*    font-size: 24px;*/
+/*    border-bottom: 1px solid black;*/
+/*    */
+/*    line-height: 2.5em;*/
+/*    letter-spacing: 2px;*/
+/*    font-weight: 500;*/
+/*    */
+/*}*/
+/**/
+/*#bio p {*/
+/*    line-height: 1.7em;*/
+/*    word-spacing: .1em;*/
+/*    font-size: 16px;*/
+/*    */
+/*}*/
+
+
+/* FOOTER + SOCIAL MEDIA ICONS */
+/* FOOTER + SOCIAL MEDIA ICONS */
+/* FOOTER + SOCIAL MEDIA ICONS */
+
+footer {
+    
+    background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
+    
+    clear: both;
+    
+}
+
+.copyright {
+    font-family: "Source Sans Pro", Arial, sans-serif;
+    font-weight: 300;
+    font-size: 80%;
+    color: gray;
+    text-align: left;
+    padding: 8px;
+    
+    /*    overflow: auto;*/
+    float: left;
+    
+}
+
+
+.icons {
+    display: block;
+
+    padding-top: 25px;
+
+    text-align: right;
+    padding-right: 50px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    
+}
+
+
+.icons a{
+    padding: 8px;
+    
+    font-size: 26px;
+    width: 15px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+
+/*    background: #01aa01;*/
+    background: #f2f2f2;
+    color: gray;
+
+    display: inline;
+    line-height: 10%;
+/*    position: absolute;*/
+
+}
+
+
+.icons a:hover {
+    color: #066006;
+}
+
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+
+/************************************************/
+/************************************************/
+/************************************************/
+/************************************************/
+
+
+/*BREAKPOINT 1*/
+
+@media only screen and (max-width: 1100px) {
+    
+    .home a {
+        top: 35%;
+    }
+    
+    
+    
+}
+
+/*TABLET SIZE*/
+@media only screen and (max-width: 800px) {
+    
+    header {
+        float: none;
+        width: auto;
+    }
+
+    .name_logo {
+        margin-left: 34%;
+    
+    }
+    
+    .nav {
+        text-align: center;
+        padding-right: 25.55%;
+
+    }
+
+}
+
+/*BREAKPOINT 2*/
+@media only screen and (max-width: 740px) {
+    
+    .name_logo {
+        width: 12em;
+        margin-left: 29%;
+        margin-top: .2em;
+    }
+    
+    .home a {
+/*        background-color: blue;*/
+        top: 32%;
+
+    }
+    
+    .nav {
+        padding-right: 20%;
+        
+    }
+    
+    .nav a {
+        font-size: 14px;
+        margin-top: 0;
+    }
+    
+}
+
+
+/*LANDSCAPE PHONE*/
+@media only screen and (max-width: 590px) {
+    
+    .home a {
+/*        background-color: blue;*/
+
+        top: 67.5%;
+        left: 9%;
+        width: 75%;
+     
+    }
+    
+    .nav {
+        padding-right: 6em;
+        
+    }
+    
+    .nav a {
+        font-size: 13px;
+        padding: .7em .5em 0;
+        
+    }
+    
+    
+}
+
+/*PORTRAIT PHONE*/
+@media only screen and (max-width: 520px) {
+ 
+    .home a {
+/*        background-color: blue;*/
+     
+        top: 77%;
+    }
+ 
+    .home p {
+        margin: 0;
+    }
+ 
+    .nav {
+        padding-right: 3.2em;
+    }
+ 
+    .copyright{
+        float: none;
+        text-align: center;
+    }
+    
+    .icons {
+        text-align: center;
+        padding: 0 0 3% 0;
+    }
+ 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
