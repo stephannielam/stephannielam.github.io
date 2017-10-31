@@ -430,8 +430,9 @@ footer {
     }
     
     .nav {
-        padding: 1.2em .1em;
+        padding: 1em 0;
 /*        padding: 0;*/
+    margin 0;
         height: 5.7%;
     }
     
