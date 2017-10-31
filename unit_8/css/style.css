@@ -417,7 +417,7 @@ footer {
 @media only screen and (max-width: 490px) {
 
     .home a {
-        top: 33%;
+        top: 36%;
         left: 8%;
     }
 
@@ -430,7 +430,7 @@ footer {
     }
     
     .nav {
-        padding: 1.5em 0;
+        padding: 1.2em 0;
     }
     
     .nav a {
