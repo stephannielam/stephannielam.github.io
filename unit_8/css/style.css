@@ -222,7 +222,7 @@ footer {
 /*    background-color: #FF957E;*/
 /*    border: 1px black solid;*/
 /*    padding: 20px;*/
-    
+
     clear: both;
     
 }
@@ -417,7 +417,7 @@ footer {
 @media only screen and (max-width: 490px) {
 
     .home a {
-        top: 30%;
+        top: 20%;
         left: 8%;
     }
 
@@ -431,7 +431,7 @@ footer {
     
     .nav {
         
-        padding: 1em .1em;
+        padding: 1em .2em;
 /*        padding: 0;*/
         height: 2em;
 
@@ -446,7 +446,12 @@ footer {
     
     .name_logo {
         margin-left: 21%;
+        margin-top: 1%;
         height: 1.7em;
+    }
+    
+    header {
+        height: 1.5em;
     }
 
 }
