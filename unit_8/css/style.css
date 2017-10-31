@@ -414,7 +414,7 @@ footer {
 
 
 /*PORTRAIT PHONE*/
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 490px) {
 
     .home a {
         top: 40%;
