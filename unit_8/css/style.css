@@ -436,6 +436,7 @@ footer {
     }
     
     .nav a {
+        color: green;
         font-size: 12px;
         padding: .2em .5em;
         
