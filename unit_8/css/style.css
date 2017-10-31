@@ -431,10 +431,10 @@ footer {
     
     .nav {
         
-        padding: 1.5em 0;
+        padding: 1em 0;
 /*        padding: 0;*/
-        margin 0;
-/*        height: 7%;*/
+        height: 2em;
+
     }
     
     .nav a {
