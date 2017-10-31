@@ -417,7 +417,7 @@ footer {
 @media only screen and (max-width: 490px) {
 
     .home a {
-        top: 32%;
+        top: 33%;
         left: 8%;
     }
 
@@ -439,7 +439,7 @@ footer {
     }
     
     .name_logo {
-        margin-left: 22%
+        margin-left: 21%;
     }
 
 }
