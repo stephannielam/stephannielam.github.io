@@ -430,15 +430,15 @@ footer {
     }
     
     .nav {
-        padding: 1.2em .1em;
+/*        padding: 1.2em .1em;*/
 /*        padding: 0;*/
         height: 5.7%;
     }
     
     .nav a {
-        background-color: green;
+        
         font-size: 12px;
-        padding: .2em .5em;
+        padding: .5em .6em;
         
     }
     
