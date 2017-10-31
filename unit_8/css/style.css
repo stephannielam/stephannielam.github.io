@@ -431,7 +431,7 @@ footer {
     
     .nav {
         
-        padding: 1em 0;
+        padding: 1em .1em;
 /*        padding: 0;*/
         height: 2em;
 
@@ -446,6 +446,7 @@ footer {
     
     .name_logo {
         margin-left: 21%;
+        height: 1.7em;
     }
 
 }
