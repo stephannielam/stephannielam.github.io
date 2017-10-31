@@ -417,16 +417,16 @@ footer {
 @media only screen and (max-width: 490px) {
 
     .home a {
-        top: 37%;
+        top: 32%;
         left: 8;
     }
 
     .home x {
-        font-size: 28px;
+        font-size: 20px;
     }
     
     .home p {
-        font-size: 16px;
+        font-size: 13px;
     }
     
     .nav a {
