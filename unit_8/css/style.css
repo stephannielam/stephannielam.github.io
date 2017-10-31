@@ -19,10 +19,10 @@ body {
 
 header {
     
-    background-color: #FFED74;
-    border: 1px black solid;
-    padding: 20px;
-    
+/*    background-color: #FFED74;*/
+/*    border: 1px black solid;*/
+/*    padding: 20px;*/
+
     float: left;
     
     height: 2em;
@@ -41,9 +41,9 @@ header {
 
 .nav {
     
-    background-color: #E8C66A;
-    border: 1px black solid;
-    padding: 20px;
+/*    background-color: #E8C66A;*/
+/*    border: 1px black solid;*/
+/*    padding: 20px;*/
 
     height: 2em;
 
@@ -90,10 +90,10 @@ header {
 /* HOME PAGE IMAGE AND QUOTE */
 .home {
     
-    background-color: #E89C6C;
-    border: 1px black solid;
-    padding: 20px;
-    
+/*    background-color: #E89C6C;*/
+/*    border: 1px black solid;*/
+/*    padding: 20px;*/
+
     
 /*    font-family:"Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;*/
     font-family: "Source Sans Pro", Arial, sans-serif;
@@ -219,9 +219,9 @@ header {
 
 footer {
     
-    background-color: #FF957E;
-    border: 1px black solid;
-    padding: 20px;
+/*    background-color: #FF957E;*/
+/*    border: 1px black solid;*/
+/*    padding: 20px;*/
     
     clear: both;
     
