@@ -49,13 +49,15 @@
     width: 62%;
 }
 
-#bio h3 {
+#bio h1 {
     font-size: 24px;
     border-bottom: 1px solid black;
     
-    line-height: 1.5em;
+/*    line-height: 1.5em;*/
     letter-spacing: 2px;
     font-weight: 500;
+    
+    padding-bottom: .7em;
     
 }
 
@@ -64,6 +66,7 @@
     word-spacing: .1em;
     font-size: 16px;
     
+
 }
 
 
@@ -90,9 +93,9 @@
 
     }
     
-    #bio h3{
+    #bio h1{
         font-size: 20px;
-        line-height: 2em;
+/*        line-height: 2em;*/
     }
     
     #bio p {
