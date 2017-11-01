@@ -12,7 +12,7 @@
 }
 
 
-#about_pic{
+#about_pic {
     display: block;
     clear: both;
     float: left;
@@ -67,4 +67,46 @@
     font-size: 16px;
     
 }
+
+
+@media only screen and (max-width: 490px) {
+ 
+ #about_pic {
+     
+ }
+ 
+ #about_pic img {
+     
+ }
+ 
+ #bio {
+     display: auto;
+ }
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
