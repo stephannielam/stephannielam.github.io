@@ -88,7 +88,6 @@
     #bio {
         display: inline;
         width: 57%;
-        padding: 0 1%;
     
 /*        background-color: pink;*/
 
@@ -111,18 +110,18 @@
  
  #about_pic {
      float: none;
-     width: 95%;
+     width: 96%;
      margin: 2%;
      
  }
  
  #bio {
      width: 80%;
-     margin: 0 1em;
+     margin: 0 2%;
  }
  
  #bio p {
-     font-size: 14px;
+     font-size: 15px;
  }
  
 }
