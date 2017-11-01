@@ -82,7 +82,7 @@
     }
     
     #bio {
-        display: inline;
+/*        display: inline;*/
         width: 50%;
         margin: 0 1%;
         
@@ -105,12 +105,15 @@
      
  }
  
- 
  #bio {
      width: 80%;
      margin: 0 1em;
  }
-    
+ 
+ #bio p {
+     font-size: 14px;
+ }
+ 
 }
 
 
