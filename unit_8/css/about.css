@@ -6,9 +6,9 @@
 
 
 #about_section {
-    background-color: #FFB7CF;
-    border: 1px black solid;
-    padding: 20px;
+/*    background-color: #FFB7CF;*/
+/*    border: 1px black solid;*/
+/*    padding: 20px;*/
 }
 
 
@@ -16,13 +16,12 @@
     display: block;
     clear: both;
     float: left;
-    /*    background: #fff;*/
     width: 40%;
-    /*    margin-right: 2em;*/
     
-    background-color: violet;
-    border: 1px black solid;
-    padding: 20px;
+/*    background-color: violet;*/
+/*    border: 1px black solid;*/
+/*    padding: 20px;*/
+
     float: left;
     width: 30%;
     
@@ -44,9 +43,10 @@
     /*    font-family: Palatino;*/
     font-family: "Slabo 27px", "Times New Roman", serif;
     
-    background-color: pink;
-    border: 1px black solid;
-    padding: 20px;
+/*    background-color: pink;*/
+/*    border: 1px black solid;*/
+/*    padding: 20px;*/
+
     float: right;
     width: 62%;
 }
