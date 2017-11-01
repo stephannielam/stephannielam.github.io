@@ -74,7 +74,8 @@
 @media only screen and (max-width: 740px) {
     
     #about_pic {
-        width: 45%;
+        width: 40%;
+        background-color: green;
         
     }
     
