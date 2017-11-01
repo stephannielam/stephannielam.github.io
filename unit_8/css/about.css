@@ -116,6 +116,7 @@
  }
  
  #bio {
+     display: block;
      width: 80%;
      margin: 0 2%;
  }
