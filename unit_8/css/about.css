@@ -16,13 +16,11 @@
     display: block;
     clear: both;
     float: left;
-/*    width: 40%;*/
+    width: 30%;
 
 /*    background-color: violet;*/
 /*    border: 1px black solid;*/
 /*    padding: 20px;*/
-
-    width: 30%;
     
 }
 
@@ -77,8 +75,12 @@
 @media only screen and (max-width: 590px) {
     
     #about_pic {
-        width: 40%;
+        width: 45%;
         
+    }
+    
+    #bio {
+        width: 40%;
     }
     
 }
