@@ -76,8 +76,8 @@
 @media only screen and (max-width: 740px) {
     
     #about_pic {
-        width: 40%;
-        margin: 0 4% 2% 0;
+        width: 35%;
+        margin: 0 3% 2% 0;
         
     }
     
@@ -88,7 +88,7 @@
     }
     
     #bio p {
-        font-size: 12px;
+        font-size: 14px;
     }
     
 }
