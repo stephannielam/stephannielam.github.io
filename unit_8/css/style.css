@@ -417,7 +417,7 @@ footer {
 @media only screen and (max-width: 490px) {
 
     .home a {
-        top: 20%;
+        top: 23%;
         left: 8%;
     }
 
@@ -433,7 +433,7 @@ footer {
         
         padding: 1em .2em;
 /*        padding: 0;*/
-        height: 2em;
+        height: 1.5em;
 
     }
     
