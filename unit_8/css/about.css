@@ -34,7 +34,6 @@
     display: inline-block;
     /*    margin-left: 2em;*/
     text-align: left;
-/*    width: 45%;*/
     max-width: 630px;
     
     /*    font-family: Palatino;*/
@@ -72,7 +71,7 @@
 /************************************************/
 
 /*LANDSCAPE MODE*/
-@media only screen and (max-width: 590px) {
+@media only screen and (max-width: 600px) {
     
     #about_pic {
         width: 45%;
@@ -80,6 +79,7 @@
     }
     
     #bio {
+        display: inline;
         width: 40%;
     }
     
