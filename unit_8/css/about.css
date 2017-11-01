@@ -36,7 +36,7 @@
     display: inline-block;
     /*    margin-left: 2em;*/
     text-align: left;
-    width: 45%;
+/*    width: 45%;*/
     max-width: 630px;
     
     /*    font-family: Palatino;*/
@@ -73,7 +73,7 @@
  #about_pic {
      float: none;
      width: 80%;
-     text-align: center;
+     
  }
  
  #about_pic img {
@@ -81,8 +81,9 @@
  }
  
  #bio {
-     display: inline;
      float: none;
+     width: 60%;
+     padding 0 1em;
  }
     
 }
