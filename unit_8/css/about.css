@@ -72,8 +72,8 @@
  
  #about_pic {
      float: none;
-     width: 70%;
-     
+     width: 80%;
+     text-align: center;
  }
  
  #about_pic img {
