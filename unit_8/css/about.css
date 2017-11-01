@@ -76,19 +76,19 @@
 @media only screen and (max-width: 740px) {
     
     #about_pic {
-        width: 35%;
+        width: 37%;
         margin: 0 3% 2% 0;
         
     }
     
     #bio {
-        width: 45%;
+        width: 47%;
         margin: 0 1%;
         
     }
     
     #bio p {
-        font-size: 14px;
+        font-size: 15px;
     }
     
 }
