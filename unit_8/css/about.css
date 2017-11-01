@@ -83,15 +83,16 @@
     }
     
     #bio {
-        width: 56%;
+        width: 57%;
         margin: 0;
     
         background-color: pink;
-        
+
     }
     
     #bio h3{
         font-size: 20px;
+        line-height: 1em;
     }
     
     #bio p {
