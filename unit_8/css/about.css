@@ -82,14 +82,13 @@
     }
     
     #bio {
-/*        display: inline;*/
-        width: 50%;
+        width: 45%;
         margin: 0 1%;
         
     }
     
     #bio p {
-        font-size: 11px;
+        font-size: 12px;
     }
     
 }
