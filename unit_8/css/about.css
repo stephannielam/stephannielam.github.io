@@ -83,8 +83,9 @@
     }
     
     #bio {
-        width: 50%;
-        margin: 0 1%;
+        width: 53%;
+        margin-top: 0;
+    
         background-color: pink;
         
     }
