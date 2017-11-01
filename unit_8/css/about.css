@@ -81,6 +81,7 @@
  
  #bio {
      display: inline;
+     float: none;
  }
     
 }
