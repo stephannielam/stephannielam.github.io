@@ -75,7 +75,7 @@
     
     #about_pic {
         width: 40%;
-        margin: 2% 0;
+        margin: 2% 2% 2% 0;
         
     }
     
@@ -85,6 +85,10 @@
         width: 50%;
         margin: 0 1%;
         
+    }
+    
+    #bio p {
+        font-size: 14px;
     }
     
 }
