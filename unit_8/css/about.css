@@ -96,12 +96,12 @@
     }
     
     #bio h1{
-        font-size: 20px;
+        font-size: large;
 /*        line-height: 2em;*/
     }
     
     #bio p {
-        font-size: 11px;
+        font-size: small;
     }
     
 }
