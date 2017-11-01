@@ -77,14 +77,13 @@
     
     #about_pic {
         width: 37%;
-        margin: 0 3% 2% 0;
+        padding: 0 3% 2% 1%;
         
-        padding: 1%;
         
     }
     
     #bio {
-        width: 47%;
+        width: 50%;
         margin: 0 1%;
         
     }
