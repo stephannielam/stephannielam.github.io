@@ -17,6 +17,7 @@
     clear: both;
     float: left;
     width: 30%;
+    padding: 1.5% 1%;
 
 /*    background-color: violet;*/
 /*    border: 1px black solid;*/
@@ -32,7 +33,9 @@
 
 #bio {
     display: inline-block;
-    /*    margin-left: 2em;*/
+    margin-left: 2em;
+    margin-top: 1%;
+    
     text-align: left;
     max-width: 630px;
     
@@ -43,7 +46,6 @@
 /*    border: 1px black solid;*/
 /*    padding: 20px;*/
 
-    float: right;
     width: 62%;
 }
 
@@ -51,7 +53,7 @@
     font-size: 24px;
     border-bottom: 1px solid black;
     
-    line-height: 2.5em;
+    line-height: 1.5em;
     letter-spacing: 2px;
     font-weight: 500;
     
@@ -81,7 +83,6 @@
     
     #bio {
         display: inline;
-        float: none;
         width: 50%;
         margin: 0 1%;
         
@@ -106,7 +107,6 @@
  
  
  #bio {
-     float: none;
      width: 80%;
      margin: 0 1em;
  }

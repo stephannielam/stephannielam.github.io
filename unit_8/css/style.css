@@ -25,6 +25,7 @@ header {
 
     float: left;
     
+    margin-top: 1%;
     height: 2em;
     width: 33%;
 
@@ -46,7 +47,7 @@ header {
 /*    padding: 20px;*/
 
     height: 2em;
-
+    padding-top: 1%;
     padding-right: 3em;
     font-family: Palatino;
     
@@ -329,12 +330,12 @@ footer {
 
 }
 
-/*BREAKPOINT 2*/
+/*BREAKPOINT 2 (actual landscape width?)*/
 @media only screen and (max-width: 740px) {
     
     .name_logo {
         width: 12em;
-        margin-left: 29%;
+        margin-left: 31%;
         margin-top: .2em;
     }
     
