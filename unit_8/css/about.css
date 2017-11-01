@@ -75,13 +75,16 @@
     
     #about_pic {
         width: 40%;
-        background-color: green;
+        margin: 2% 0;
         
     }
     
     #bio {
         display: inline;
-        width: 40%;
+        float: none;
+        width: 50%;
+        margin: 0 1%;
+        
     }
     
 }
